@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MAGIC
+  - INVISIBLE
+  - FLY
+  - INTELLIGENCE
+  - CHARISMA
+  - MULTIDOOR
+  - ANTIDOOR
+  - ANTIMAGIC
+  - REMOVE
+  - ADD
+  - RESET
+  - MAGIC_DOOR
+  - MAGIC_KEY
+  - CHARISMA_KEY
+  - INVISIBLE_KEY
+  - FLY_KEY
+  - INTELLIGENCE_KEY
+  - GOLDEN_KEY
+  - FLY_DOOR
+  - INTELLIGENCE_DOOR
+  - CHARISMA_DOOR
+  - INVISIBLE_DOOR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
